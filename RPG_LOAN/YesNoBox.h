@@ -12,7 +12,7 @@ public:
 	YesNoBox(std::string& first = std::string("Oui"), std::string& scd = std::string("Non"));
 	~YesNoBox();
 	void setText(std::string&, std::string&);
-	void up();
+	void up(); // commentaire test
 	void down();
 	void setVisible(bool);
 	void setResult();
