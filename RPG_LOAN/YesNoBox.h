@@ -13,7 +13,7 @@ public:
 	~YesNoBox();
 	void setText(std::string&, std::string&);
 	void up(); // commentaire test
-	void down();
+	void down();// down
 	void setVisible(bool);
 	void setResult();
 	int getResult() const;
