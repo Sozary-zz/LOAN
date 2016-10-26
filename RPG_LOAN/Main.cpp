@@ -5,5 +5,5 @@ int main() {
 	Game app;
 	app.run();
 
-	return 0;s
+	return 0;
 }
